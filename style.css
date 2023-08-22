@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #868686;
+}
+header {
+    background-color: #35424a;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+img{
+    border-radius: 10%;
+}
